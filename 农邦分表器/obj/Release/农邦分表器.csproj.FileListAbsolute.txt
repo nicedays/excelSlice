@@ -1,0 +1,13 @@
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.csproj.ResolveComReference.cache
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.Form1.resources
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.Properties.Resources.resources
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.csproj.GenerateResource.cache
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.csproj.CoreCompileInputs.cache
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.exe
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.pdb
+E:\源码\C++\农邦分表器\农邦分表器\bin\Release\农邦分表器.exe.config
+E:\源码\C++\农邦分表器\农邦分表器\bin\Release\农邦分表器.exe
+E:\源码\C++\农邦分表器\农邦分表器\bin\Release\农邦分表器.pdb
+E:\源码\C++\农邦分表器\农邦分表器\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.csproj.CopyComplete
+E:\源码\C++\农邦分表器\农邦分表器\obj\Release\农邦分表器.csprojAssemblyReference.cache
